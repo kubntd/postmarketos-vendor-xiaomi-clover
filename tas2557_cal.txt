@@ -1,0 +1,11 @@
+DevA Re = 7.00
+DevA rms_pow       = 0x01455A14
+DevA t_limit       = 0x2D000000
+DevB Re = 6.96
+DevB rms_pow       = 0x0143D760
+DevB t_limit       = 0x2D000000
+Ambient temperature = 25.00
+
+Result = 0x0
+
+
